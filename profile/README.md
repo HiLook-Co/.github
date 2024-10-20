@@ -2,6 +2,13 @@
 
 Welcome to HiLook's organization on GitHub where we love all things open source.
 
-## HiLook Public Repository Disclosure 
-All content in these repositories including code has been provided by HiLook under the associated open source software license and IBM is under no obligation to provide enhancements, updates, or support.
-HiLook developers produced this code as an open source project (not as an HiLook product), and HiLook makes no assertions as to the level of quality nor security, and will not be maintaining this code going forward.
+## About
+We are a team of passionate frontend developers dedicated to building high-quality web applications. Our focus is on creating responsive, accessible, and visually appealing interfaces that meet the needs of our clients and users.
+
+## Technologies Used
+We utilize a variety of modern technologies to deliver exceptional frontend solutions:
+  HTML5: For structuring content on the web.
+  CSS3: For styling and layout.
+  JavaScript: For dynamic content and interactivity.
+  React & NexJS: A JavaScript library for building user interfaces.
+  Redux: For state management in complex applications.
